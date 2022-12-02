@@ -1,3 +1,3 @@
 # Waynhenge
 
-Will porbably use Flutter and Supabase :)
+Will probably use Flutter and Supabase :)
